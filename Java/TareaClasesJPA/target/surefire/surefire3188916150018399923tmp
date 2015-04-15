@@ -1,0 +1,8 @@
+#surefire
+#Sun Apr 12 18:18:08 COT 2015
+maven.ext.class.path=D\:\\Users\\toshiba_\\Documents\\Sena\\Programas\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=D\:\\Users\\toshiba_\\Documents\\Sena\\6 Trimestre\\Semana 1\\TareaClasesJPA
+file.encoding=UTF-8
+localRepository=C\:\\Users\\toshiba_\\.m2\\repository
+basedir=D\:\\Users\\toshiba_\\Documents\\Sena\\6 Trimestre\\Semana 1\\TareaClasesJPA
+test=edu.co.sena.akuavida.integracion.entitis.CarritoDeComprasTestJPA\#buscarCarritosDeComprasPorTotal

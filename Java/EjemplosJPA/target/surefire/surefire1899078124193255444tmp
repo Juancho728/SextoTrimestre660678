@@ -1,0 +1,12 @@
+#surefire
+#Thu Apr 09 16:04:05 COT 2015
+jpda.address=49777
+maven.ext.class.path=D\:\\Grupo660678Programas\\netbeans\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+jpda.listen=true
+forkMode=once
+user.dir=C\:\\Users\\ColsutecR\\Desktop\\EjemplosJPA
+localRepository=C\:\\Users\\ColsutecR\\.m2\\repository
+test=edu.co.sena.ejemplo.relaciones.unoauno.UnoAUnoTest\#consulta
+basedir=C\:\\Users\\ColsutecR\\Desktop\\EjemplosJPA
+maven.surefire.debug=-Xdebug -Xrunjdwp\:transport\=dt_socket,server\=n,address\=49777

@@ -1,0 +1,12 @@
+#surefire
+#Tue Apr 14 22:33:56 COT 2015
+jpda.address=59034
+maven.ext.class.path=D\:\\Users\\toshiba_\\Documents\\Sena\\Programas\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+jpda.listen=true
+forkMode=once
+user.dir=D\:\\Users\\toshiba_\\Documents\\Sena\\6 Trimestre\\Semana 1\\TareaClasesJPA
+localRepository=C\:\\Users\\toshiba_\\.m2\\repository
+test=edu.co.sena.akuavida.integracion.entitis.CarritoDeComprasTestJPA
+basedir=D\:\\Users\\toshiba_\\Documents\\Sena\\6 Trimestre\\Semana 1\\TareaClasesJPA
+maven.surefire.debug=-Xdebug -Xrunjdwp\:transport\=dt_socket,server\=n,address\=59034
